@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Srishti Prasad
+## Hi👋 I'm Srishti Prasad
+### BTech NIT Bhopal | Backend Engineer | 3.5 YOE | Fintech · Distributed Systems · System Design
 
 🔭 **I’m currently working on**: Building robust backend microservices, event-driven pipelines, and scalable fintech systems.  
 🌱 **I’m currently exploring**: Advanced system design patterns, transaction idempotency, and database optimization strategies.  
