@@ -12,11 +12,10 @@
 * **Databases & Caching:** PostgreSQL, MongoDB, Redis
 * **Core Skills:** Asynchronous Data Processing, Multi-State Routing Engines, Database Query Optimization, System Design
 
-### 📊 GitHub Stats
-
-<div align="center">
+<!--### 📊 GitHub Stats
+ <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=srishtiprasadmanit12&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
+</div> -->
 <!--
 **srishtiprasadmanit12/srishtiprasadmanit12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
