@@ -3,7 +3,7 @@
 🔭 **I’m currently working on**: Building robust backend microservices, event-driven pipelines, and scalable fintech systems.  
 🌱 **I’m currently exploring**: Advanced system design patterns, transaction idempotency, and database optimization strategies.  
 💬 **Ask me about**: Node.js, TypeScript, REST APIs, Kafka, Redis, PostgreSQL, and distributed architectures.  
-📫 **How to reach me**: [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/srishti-prasad-manit/)) / [Email](mailto:srishticode1211@gmail.com)
+📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/srishti-prasad-manit/) / [Email](mailto:srishticode1211@gmail.com)
 
 ### 🛠️ Tech Stack & Tools
 
